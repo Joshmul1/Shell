@@ -1,5 +1,5 @@
 # Shell
-A Shell written in C
+A Shell written in C.
 
 ## Built in commands
 The list of built in commands are given below, but all external commands that your command line usually provides are available to be used.
